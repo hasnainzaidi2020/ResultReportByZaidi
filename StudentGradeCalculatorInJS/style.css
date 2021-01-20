@@ -1,0 +1,27 @@
+body{
+    background-color: darkcyan;
+    padding: 3%;
+    color: whitesmoke;
+}
+
+.red {
+    padding: 4%;
+    background-color: red;
+}
+
+.blue{
+    padding:  4%;
+    background-color: blue;
+}
+
+.wit{
+    background-color: whitesmoke;
+    text-align: center;
+    color: black;
+    text-align: center;
+    padding: 2%;
+}
+
+.container-fluid{
+margin-top: 80px;
+}
